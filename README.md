@@ -7,7 +7,7 @@ PyBer, a popular, criitcally-accalimed ride-sharing service, has tasked the user
 
 ## Results 
 
-<img width="473" alt="PyBer_chart" src="https://user-images.githubusercontent.com/106895220/178640503-dd640a54-6974-4038-881b-77a02444d5fa.png">
+<img width="473" alt="PyBer_chart" src="https://user-images.githubusercontent.com/106895220/178657970-bd180fa5-d7ee-41b8-a0a3-29a735c4c154.png">
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/106895220/178644312-64da4670-12d5-44d6-9d2e-fde92fe4e917.png)
 
