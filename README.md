@@ -2,7 +2,7 @@
 
 ## Overview
 
-PyBer, a popular, criitcally-accalimed ride-sharing service, has tasked the user with performing an exploratory analysis to to analyze the differences of data amongst city types. Decision makers will use this data to decide their next plan of action. Technically, the user will learn the intricacies of MatPlotlib in conjuction with Pandas to visualize data. 
+PyBer, a popular, critcally-accalimed ride-sharing service, has tasked the user with performing an exploratory analysis to to analyze the differences of data amongst city types. Decision makers will use this data to decide their next plan of action. Technically, the user will learn the intricacies of MatPlotlib in conjuction with Pandas to visualize data. 
 
 
 ## Results 
@@ -22,4 +22,4 @@ While city type is a primary driver of fare rates, we must examine other reasons
 
 ## Summary
 
-The high fare rate from drivers in rural and suburban markets implies that more drivers can be hired to meet demand. This solution may not solve this discrepancy problem; other factors are in play. To construct a solution that resolves in long-term positive value, we must create a system that pays attention to positive responses to drivers. Common ground between experiences   How can we create a system that is the same visually across all city types? Outside of the economic outputs of our variables, we may have to look to more "localized" variables that are unique to each city type. If different city types result in different or disparate values, then there must be a way to capitalize on them without sacrificing short-term gain.
+The high fare rate from drivers in rural and suburban markets implies that more drivers can be hired to meet demand. This solution may not solve this discrepancy problem; other factors are in play. To construct a solution that resolves in long-term positive value, we must create a system that pays attention to positive responses to drivers. How can we create a system that is the same visually across all city types? Outside of the economic outputs of our variables, we may have to look to more "localized" variables that are unique to each city type. If different city types result in different or disparate values, then there must be a way to capitalize on them without sacrificing short-term gain.
