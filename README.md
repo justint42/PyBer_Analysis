@@ -15,11 +15,11 @@ Overlying summary statistics per major factors shows a disparity the average far
 
 - Ride demand (and arguably, "need" for drivers") increases as community population increases.
 - There is a point in population size where fares per drivers increase as fares per ride decreases.
-- Surburban communities act as a 'middle ground' when looking at extremes.
+- Suburban communities act as a 'middle ground' when looking at extremes.
 - Fare revenue is mostly determined by population volume.
 
 While city type is a primary driver of fare rates, we must examine other reasons for city type fare disparities. What can be done to mitigate  high fare costs in rural communitites? Can urban drivers get paid more? The statistics of the specific cities examined may shed insight on what can be done. 
 
 ## Summary
 
-The high fare rate from drivers in rural and suburban markets implies that more drivers can be hired to meet demand. This solution may not solve this discrepancy problem; other factors are in play. To construct a solution that resolves in long-term positive value, we must create a system that pays attention to positive responses to drivers. H'ow can we create a system that is the same visually across all city types? Outside of our "economic" variables, we may have to look to more "localized" variables that are unique to each city type. If different city types result in different or disparate values, then there must be a way to capitalize on them without sacrificing short-term gain.
+The high fare rate from drivers in rural and suburban markets implies that more drivers can be hired to meet demand. This solution may not solve this discrepancy problem; other factors are in play. To construct a solution that resolves in long-term positive value, we must create a system that pays attention to positive responses to drivers. How can we create a system that is the same visually across all city types? Outside of our "economic" variables, we may have to look to more "localized" variables that are unique to each city type. If different city types result in different or disparate values, then there must be a way to capitalize on them without sacrificing short-term gain.
