@@ -2,7 +2,7 @@
 
 ## Overview
 
-PyBer, a popular, critcally-accalimed ride-sharing service, has tasked the user with performing an exploratory analysis to to analyze the differences of data amongst city types. Decision makers will use this data to decide their next plan of action. Technically, the user will learn the intricacies of MatPlotlib in conjuction with Pandas to visualize data. 
+PyBer, a popular, critcally-acclaimed ride-sharing service, has tasked the user with performing an exploratory analysis to to analyze the differences of data amongst city types. Decision makers will use this data to decide their next plan of action. Technically, the user will learn the intricacies of MatPlotlib in conjuction with Pandas to visualize data. 
 
 
 ## Results 
